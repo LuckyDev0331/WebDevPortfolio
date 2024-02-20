@@ -11,7 +11,7 @@ const Footer = () => {
         style={{ backgroundColor: "#313131" }}
       >
         <div className="flex items-center justify-center mb-6">
-          <a
+          {/* <a
             className="inline-block mx-2"
             href="https://twitter.com/GilbertHutapeaa"
             target="_blank"
@@ -26,25 +26,25 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             <FaLinkedin className="text-2xl text-blue-400" />
-          </a>
+          </a> */}
           <a
             className="inline-block mx-2"
-            href="https://www.github.com/berthutapea"
+            href="https://www.github.com/LuckyDev0331"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaGithub className="text-2xl text-black" />
           </a>
-          <a
+          {/* <a
             className="inline-block mx-2"
             href="https://www.instagram.com/bethup97/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaInstagram className="text-2xl text-pink-500" />
-          </a>
+          </a> */}
         </div>
-        <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
+        {/* <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
             href="https://www.fiverr.com/berthutapea"
@@ -101,7 +101,7 @@ const Footer = () => {
           >
             Resume
           </a>
-        </div>
+        </div> */}
 
         <div className="w-full h-[2px] bg-gray-600"></div>
         <div className="flex flex-col md:flex-row items-center justify-between mt-4">

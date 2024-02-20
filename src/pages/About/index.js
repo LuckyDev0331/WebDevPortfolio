@@ -6,7 +6,7 @@ import "../../components/atoms/PrimaryBtn/PrimaryBtn.css";
 import "../shared/Shared.css";
 import { BottomLine, MySkill, Education } from "../../components";
 import { FaDownload } from "react-icons/fa";
-import userImg from '../../assets/repair.png'
+import userImg from '../../assets/me.png'
 
 const About = () => {
   return (
@@ -39,7 +39,7 @@ const About = () => {
             <img
               src={userImg}
               alt="James William"
-              className="p-12 w-70 h-70 transform translate-y-[-12%]"
+              className="p-12 w-[700px] transform translate-y-[-12%]"
               title="James William"
             />
 
@@ -94,14 +94,14 @@ const About = () => {
                 <span className="mr-2 text-primary">Name : </span>James William
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Phone : </span>+62 823 6148 4992
+                <span className="mr-2 text-primary">Phone : </span>+49 30 503939401
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
-                berthutapea@gmail.com
+                jameswilliam03031@gmail.com
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Karawang, Jawa Barat, Indonesia
+                <span className="mr-2 text-primary">Address : </span>Berlin, Germany
               </h2>
               <a
                 href="https://drive.google.com/file/d/1RIuX7DqfyVaHwEtuJqk2srWhrYW_KBE6/view"
