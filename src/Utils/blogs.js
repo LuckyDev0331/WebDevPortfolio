@@ -1,3 +1,10 @@
+import imag_mern from "../assets/MERN.jpg"
+import img_next from "../assets/Next.jpg"
+import img_express from "../assets/express.jpg"
+import img_mongo from "../assets/mongo.jpg"
+import img_react from "../assets/react.jpg"
+import img_redux from "../assets/Redux.jpg"
+
 const blogs = [
   {
     _id: 1,
@@ -130,7 +137,7 @@ const blogs = [
     title: "Get to Know What React Works & Its Advantages",
     path: "know-react",
     date: "12 January 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379583/Blog%20Portfolio%20Gilbert/blog-13_ja6gob.jpg",
+    img: img_react,
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -144,7 +151,7 @@ const blogs = [
     title: "Get to Know What Express JS Works & Its Strengths",
     path: "know-expressjs",
     date: "28 January 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379893/Blog%20Portfolio%20Gilbert/blog-14_i6cr3c.jpg",
+    img: img_express,
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -158,7 +165,7 @@ const blogs = [
     title: "Get to Know What MongoDB Works & Its Strengths",
     path: "know-mongodb",
     date: "10 February 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379347/Blog%20Portfolio%20Gilbert/blog-12_ogkohs.jpg",
+    img: img_mongo,
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -172,7 +179,7 @@ const blogs = [
     title: "Get to Know What Redux Works & Its Strengths",
     path: "know-redux",
     date: "23 February 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682375519/Blog%20Portfolio%20Gilbert/blog-02_sfkoc2.jpg",
+    img: img_redux,
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -186,7 +193,7 @@ const blogs = [
     title: "Get to Know What Next JS Works & Its Strengths",
     path: "know-nextjs",
     date: "09 March 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1682379107/Blog%20Portfolio%20Gilbert/blog-11_d4jicx.jpg",
+    img: img_next,
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -200,7 +207,7 @@ const blogs = [
     title: "Introduction to MERN Stack Developer",
     path: "introduction-to-mern-stack-developer",
     date: "21 March 2023",
-    img: "https://res.cloudinary.com/du541igfh/image/upload/v1679520807/Blog%20Portfolio%20Gilbert/blog-01_mqx2sc.jpg",
+    img: imag_mern,
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
