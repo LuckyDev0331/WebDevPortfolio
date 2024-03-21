@@ -89,7 +89,7 @@ const Items = [
     description:
       "Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
-    liveLink: "https://berthutapea.vercel.app/mern-blog",
+    liveLink: "https://github.com/LuckyDev0331/mern-blog-v2",
     codeLink: "https://github.com/LuckyDev0331/mern-blog-v2",
   },
   {
@@ -222,7 +222,7 @@ const Items = [
     description:
       "Warehouse website with employee/employee management, add employee and job title options. Employee attendance data setting salary deductions and salary data. Print salary reports, attendance and salary data and many other features.",
     category: "business",
-    liveLink: "https://berthutapea.vercel.app/employee-salary-management",
+    liveLink: "https://github.com/LuckyDev0331/mern-employee-salary-management",
     codeLink: "https://github.com/LuckyDev0331/mern-employee-salary-management",
   },
   {
